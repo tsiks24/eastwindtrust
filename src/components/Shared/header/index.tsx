@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from './Head'
 
-function Footer() {
+function Header() {
   return (
     <footer>
     <Head/>
@@ -9,4 +9,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default Header

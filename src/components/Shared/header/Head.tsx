@@ -48,7 +48,7 @@ function Head() {
          </div>
           <div className='w-full flex -flex-row'>
                         <div className='flex-1 flex justify-end pr-[40px]'>
-                            <h1 className='text-[60px] text-blue-500 font-bold'>Find Your Home</h1>
+                            <h1 className='text-[60px] text-blue-500 font-medium'>Find Your Home</h1>
                         </div>
                         <div className='flex-1 bg-blue-100 rounded-tl-2xl flex justify-center items-center gap-10' >
                                <h1 className='text-[20px] font-bold'>Need help choosing your stand</h1>

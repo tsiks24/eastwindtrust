@@ -3,9 +3,9 @@ import Head from './Head'
 
 function Header() {
   return (
-    <footer>
+    <header>
     <Head/>
-    </footer>
+    </header>
   )
 }
 

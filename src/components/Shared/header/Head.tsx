@@ -2,8 +2,8 @@ import React from 'react'
 
 function Head() {
   return (
-    <div>
-      Head
+    <div className='flex w-full justify-center items-center'>
+         <div className=''></div>
     </div>
   )
 }

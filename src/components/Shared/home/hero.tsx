@@ -3,7 +3,9 @@ import React from 'react'
 function hero() {
   return (
     
-       <div>hello</div>
+       <div>
+        hello
+      </div>
 
   )
 }

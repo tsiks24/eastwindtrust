@@ -52,7 +52,7 @@ function Head() {
                         </div>
                         <div className='flex-1 bg-blue-100 rounded-tl-2xl flex justify-center items-center gap-10' >
                                <h1 className='text-[20px] font-bold'>Need help choosing your stand</h1>
-                               <div className='border-blue-400 p-4 rounded-full border-2'><p className='text-blue-400'>Let Us Call You</p></div>
+                               <div className='border-blue-400 p-4 rounded-full border-4'><p className='font-bold text-blue-400'>Let Us Call You</p></div>
                         </div>
              </div>
     </div>

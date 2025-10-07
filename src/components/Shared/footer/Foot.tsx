@@ -83,7 +83,7 @@ function Foote() {
 
           <div className='flex flex-row w-full gap-2 py-2 justify-center items-center md:items-start md:justify-start'>
             <div className='border-gray-200 border p-2 cursor-pointer'><BiMessage className='h-[25px] w-[25px] text-blue-950'/></div>
-            <p className="py-2 text-blue-950">globalsolar@gmail.com </p>
+            <p className="py-2 text-blue-950">eastwind@gmail.com </p>
           </div>
         </div>
 
